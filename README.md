@@ -59,3 +59,7 @@ PLUGINS UTILIZADOS
 | [Storage-cloud](https://cloud.google.com/storage/docs/reference/libraries?hl=es-419)               |
 | [App-Enginee](https://cloud.google.com/appengine/docs/nodejs?hl=es-419)                            |
 | [Meta-Develope (wsp)](https://developers.facebook.com/docs/whatsapp-business-platform/get-started) |
+
+## RESULTADO FINAL
+
+![Imagen de wsp con resultado final](https://github.com/kevinjuanjacque/audio-transcriber/blob/main/tmp/resultado.png)
