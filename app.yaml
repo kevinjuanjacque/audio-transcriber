@@ -1,0 +1,6 @@
+runtime: nodejs10
+env_variables:
+  WHATSAPP_TOKEN:
+handlers:
+  - url: /workspace/src/utils/static
+    static_dir: workspace/src/utils/static
